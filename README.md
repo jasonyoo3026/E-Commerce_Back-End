@@ -12,8 +12,7 @@ There are few npm packages that are required to run this application and they ar
 
 ## Mock-Up
 
-A walkthrough video shows the POST, PUT, and DELETE routes for products and tags being tested in Insomnia and it is available in the link below:
-
+A walkthrough video shows the POST, PUT, and DELETE routes for products and tags being tested in Insomnia and it is available in the link below: https://drive.google.com/file/d/1a3AywvrYJpFUe6dbNnKCV97SnTQFOJXx/view
 
 
 The following animation shows the application's GET routes to return all categories, all products, and all tags being tested in Insomnia:
